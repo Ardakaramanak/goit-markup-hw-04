@@ -17,3 +17,24 @@
   </symbol>
 
 </svg>
+<symbol id="icon-antenna" viewBox="0 0 64 64">
+  <path d="M32 6c-9.9 0-18 8.1-18 18h4c0-7.7 6.3-14 14-14s14 6.3 14 14h4c0-9.9-8.1-18-18-18z"/>
+  <path d="M32 26a6 6 0 0 0-6 6h12a6 6 0 0 0-6-6z"/>
+  <circle cx="32" cy="44" r="4"/>
+</symbol>
+
+<symbol id="icon-clock" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" stroke-width="4"/>
+  <path d="M32 16v18l12 6" stroke="currentColor" stroke-width="4" fill="none"/>
+</symbol>
+
+<symbol id="icon-diagram" viewBox="0 0 64 64">
+  <rect x="6" y="34" width="10" height="24"/>
+  <rect x="22" y="22" width="10" height="36"/>
+  <rect x="38" y="10" width="10" height="48"/>
+</symbol>
+
+<symbol id="icon-astronaut" viewBox="0 0 64 64">
+  <circle cx="32" cy="20" r="12"/>
+  <rect x="18" y="34" width="28" height="20" rx="6"/>
+</symbol>
