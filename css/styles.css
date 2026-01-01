@@ -135,17 +135,19 @@ body {
 
 /* HERO */
 .hero {
+  max-width: 1440px;
+  margin: 0 auto;
+
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("../people-office\ 1.jpg");
+    url("../hero_image.jpg");
 
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 
-  text-align: center;
   padding: 188px 0;
 }
 .hero-title {
@@ -260,6 +262,7 @@ body {
   display: flex;
   justify-content: center;
   margin-top: 8px;
+  gap: 12px;
 }
 
 .team-social-item {
